@@ -5,7 +5,7 @@ plugins {
     id("androidx.navigation.safeargs.kotlin") version "2.4.1" apply false
     id("com.google.gms.google-services") version "4.3.10" apply false
     id("com.google.firebase.firebase-perf") version "1.4.1" apply false
-    id("com.google.firebase.crashlytics") version "2.8.1" apply false
+    id("com.google.firebase.crashlytics") version "2.9.3" apply false
 }
 
 task("clean") {
